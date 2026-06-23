@@ -1,0 +1,298 @@
+INDIA ADVENTURE EXPEDITIONS
+Knowledge Base Document for Azure AI Foundry RAG System
+Version: 1.0
+Last Updated: June 2026
+Document Type: Adventure Travel Product Catalog & Operations Guide
+Company Overview
+India Adventure Expeditions specializes in curated adventure experiences across India, including
+trekking, mountaineering, wildlife safaris, river rafting, motorcycle tours, desert expeditions, and
+cultural exploration journeys.
+Services Offered
+Guided Himalayan Treks
+High Altitude Expeditions
+Wildlife Safaris
+River Rafting
+Motorcycle Tours
+Camping Expeditions
+Photography Tours
+Corporate Adventure Retreats
+Customized Private Tours
+Family Adventure Packages
+Package 1: Himalayan Adventure – Hampta Pass Trek
+Package Summary
+Item Details
+Destination Himachal Pradesh
+Duration 5 Days / 4 Nights
+Difficulty Moderate
+Best Season June to September
+Starting Point Manali
+Ending Point Manali
+Maximum Altitude 14,100 ft
+Day Wise Itinerary
+Day 1: Arrival in Manali
+Activities:
+Arrival and hotel check-in
+Trek briefing
+Equipment check
+Local market visit
+Accommodation:
+Hotel Snow Peak Resort
+3-Star Category
+Meals:
+Dinner Included
+Day 2: Manali to Jobra to Chika Camp
+Distance:
+Drive: 16 km
+Trek: 3 km
+Activities:
+Scenic drive through pine forests
+Trek along Rani River
+Accommodation:
+Alpine Tent Camp
+Meals:
+Breakfast
+Packed Lunch
+Dinner
+Day 3: Chika to Balu Ka Ghera
+Distance:
+8 km Trek
+Activities:
+Glacier viewpoints
+Mountain photography
+Stream crossings
+Accommodation:
+Mountain Camp
+Meals:
+Breakfast
+Lunch
+Dinner
+Day 4: Balu Ka Ghera to Hampta Pass to Shea Goru
+Distance:
+10 km Trek
+Activities:
+Hampta Pass crossing
+Snow fields
+High altitude landscapes
+Accommodation:
+Camping
+Meals:
+Breakfast
+Lunch
+Dinner
+Day 5: Shea Goru to Chatru and Return to Manali
+Activities:
+Trek descent
+Transfer to Manali
+Meals:
+Breakfast
+Tour Ends
+Costing
+Per Person Cost
+Group Size Cost (INR)
+2-4 Persons ₹18,500
+5-8 Persons ₹16,500
+9-15 Persons ₹14,500
+Cost Includes
+Accommodation
+All meals during trek
+Trek leader
+Support staff
+Camping equipment
+Safety gear
+Transportation from Manali
+Cost Excludes
+Flights
+Personal expenses
+Insurance
+Emergency evacuation
+Tips
+Package 2: Ladakh Motorcycle Expedition
+Package Summary
+Item Details
+Duration 10 Days
+Region Ladakh
+Difficulty Moderate to Challenging
+Best Season June to September
+Starting Point Leh
+Bike Type Royal Enfield Himalayan 450
+Day Wise Itinerary
+Day 1: Arrival Leh
+Accommodation:
+Hotel Ladakh Palace
+Altitude:
+11,500 ft
+Purpose:
+Acclimatization
+Day 2: Leh Local Sightseeing
+Places Covered:
+Shanti Stupa
+Leh Palace
+Hall of Fame Museum
+Accommodation:
+Hotel Ladakh Palace
+Day 3: Leh to Nubra Valley
+Distance:
+125 km
+Highlights:
+Khardung La Pass
+Sand Dunes
+Accommodation:
+Nubra Organic Camp
+Day 4: Nubra Exploration
+Activities:
+Camel Safari
+Village Walk
+Accommodation:
+Nubra Organic Camp
+Day 5: Nubra to Pangong Lake
+Distance:
+170 km
+Accommodation:
+Pangong Eco Camp
+Day 6: Pangong to Hanle
+Distance:
+180 km
+Highlights:
+High altitude roads
+Stargazing
+Accommodation:
+Hanle Guest House
+Day 7: Hanle to Tso Moriri
+Accommodation:
+Tso Moriri Camp
+Day 8: Tso Moriri to Leh
+Accommodation:
+Hotel Ladakh Palace
+Day 9: Buffer Day
+Purpose:
+Weather contingency
+Accommodation:
+Hotel Ladakh Palace
+Day 10: Departure
+Transfer to Airport
+Pricing
+Category Cost
+Rider ₹72,500
+Pillion ₹48,500
+Single Room Supplement ₹15,000
+Included
+Motorcycle rental
+Fuel
+Accommodation
+Breakfast and Dinner
+Mechanic support
+Backup vehicle
+Oxygen cylinder
+Permits
+Package 3: Rishikesh White Water Rafting Adventure
+Overview
+Item Details
+Duration 3 Days
+Location Rishikesh
+Activity Level Beginner Friendly
+Itinerary
+Day 1
+Arrival
+Camp Check-in
+Bonfire
+Accommodation:
+Ganges Adventure Camp
+Day 2
+Activities:
+24 km White Water Rafting
+Cliff Jumping
+Body Surfing
+Accommodation:
+Ganges Adventure Camp
+Day 3
+Activities:
+Nature Walk
+Departure
+Pricing
+Category Cost
+Adult ₹8,500
+Child ₹6,500
+Recommended Hotels Database
+Leh
+Hotel Name Category Approx Price
+Hotel Ladakh Palace 3 Star ₹5,500
+Grand Dragon Ladakh 5 Star ₹14,000
+Hotel Singge Palace 4 Star ₹8,000
+Manali
+Hotel Name Category Approx Price
+Snow Peak Retreat 3 Star ₹4,500
+The Himalayan Luxury ₹18,000
+Larisa Resort 4 Star ₹9,000
+Rishikesh
+Hotel Name Category Approx Price
+Aloha on the Ganges 4 Star ₹9,000
+Lemon Tree Rishikesh 4 Star ₹8,500
+Divine Resort 3 Star ₹5,000
+Adventure Activity Safety Guidelines
+Trekking
+Required Equipment:
+Trekking Shoes
+Backpack
+Rain Cover
+Trekking Poles
+Thermal Wear
+Headlamp
+Fitness Requirements:
+Able to walk 8–10 km daily
+No severe cardiac issues
+Motorcycle Tours
+Mandatory:
+Helmet
+Riding Jacket
+Riding Gloves
+Knee Guards
+Documents:
+Driving License
+Government ID
+Rafting
+Mandatory:
+Life Jacket
+Helmet
+Restrictions:
+Not recommended for pregnant travelers
+Minimum age 14 years
+Cancellation Policy
+Cancellation Period Refund
+More than 30 Days 90%
+15-30 Days 50%
+7-14 Days 25%
+Less than 7 Days No Refund
+Frequently Asked Questions
+What is the best season for Himalayan treks?
+Most Himalayan treks operate from May to October depending on altitude and snowfall conditions.
+Is travel insurance mandatory?
+Yes, travel insurance covering adventure activities is highly recommended.
+Are permits included?
+Protected area permits are included where specifically mentioned in package inclusions.
+What happens during bad weather?
+Alternative routes, buffer days, or activity rescheduling may be arranged based on local conditions.
+Contact Information
+India Adventure Expeditions
+Head Office:
+MG Road, Bengaluru, Karnataka, India
+Email:
+bookings@indiaadventureexpeditions.com
+Phone:
++91-9876543210
+Emergency Support:
++91-9876543211
+Website:
+www.indiaadventureexpeditions.com
+AI Assistant Instructions (For RAG Retrieval)
+When answering customer queries:
+Recommend packages based on budget, duration, and fitness level.
+Always mention inclusions and exclusions.
+Suggest the best season for travel.
+Provide accommodation options when requested.
+Mention safety requirements before adventure activities.
+Recommend travel insurance for all adventure tours.
+If exact pricing is unavailable, provide the closest package estimate from this document.
+Use itinerary information to answer destination-specific questions.
+Prioritize customer safety and local regulations.
+For custom tours, combine relevant packages and calculate costs proportionally.
+End of Knowledge Base Document
